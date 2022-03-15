@@ -1,2 +1,2 @@
 # decommerce
-django_vue_ecommrce
+django_practice_ecommerce
